@@ -1,6 +1,3 @@
-package RT::Principal;
-
-use strict;
 no warnings qw(redefine);
 
 sub _HasGroupRight
