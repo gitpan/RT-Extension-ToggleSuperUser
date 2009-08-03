@@ -1,4 +1,4 @@
-abstract: List queues the user is a watcher of
+abstract: Allow users with SuperUser right to quickly enable/disable this right
 author: 'Emmanuel Lacour <elacour@home-dn.net>'
 distribution_type: module
 generated_by: Module::Install version 0.77
@@ -8,4 +8,4 @@ no_index:
   directory:
     - html
     - inc
-version: 0.01
+version: 0.02
